@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="hint">Masukkan angka</string>
+    <string-array name="pilihOperasi">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+        <item>Modulus</item>
+    </string-array>
+    <string name="hitung">Hitung</string>
+    <string name="error1">Pembagi tidak boleh angka 0!</string>
+</resources>
